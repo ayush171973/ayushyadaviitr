@@ -1,0 +1,88 @@
+*{margin: 0%;
+padding: 0%;
+box-sizing: border-box;}
+
+html,body{height: 100%;
+width: 100%;}
+ #main{width: 100%;
+height: 100%;}
+#header{
+    width: 100%;
+    height: 10%;
+    position: fixed;background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#fakeheader{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(13, 233, 60);
+    border-style: solid;
+    border-width: 1px;
+}
+#iitr:hover{color: aquamarine;}
+#depart:hover{color: aquamarine;}
+#course:hover{color: aquamarine;}
+#cat:hover{color: aquamarine;}
+#cont:hover{color: aquamarine;}
+#search:hover{color: rgb(240, 14, 14);background-color: aquamarine;padding: 10px; border-radius: 50%;}
+#game:hover{color: rgb(240, 10, 10);background-color: aquamarine; padding: 10px;border-radius: 50%;}
+#logo{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78);}
+#iitr{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78);}
+#depart{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78);}
+#course{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78);}
+#cat{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78);}
+#cont{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78);}
+#search{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78); }
+#game{margin: 4%;font-weight: bold; font-style: italic;color: rgb(2, 2, 78);}
+
+
+#page1{width: 100%;
+height: 90%;
+background-color: wheat;}
+
+#strip{width: 100%;display: flex;align-items: center;justify-content: center;color: white;background-color: rgb(1, 1, 37);
+height: 10%;}
+
+
+#page2{width: 100%;
+height: 90%;
+background-color: white;}
+#id1{width: 100%;
+height: 80%;
+display: flex;}
+#lower{width: 100%;
+height: 10%;
+background-color: coral;display: flex; bold;font-size: x-large;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;justify-content: center;align-items: center;}
+#BOX1{  height: 90%;
+width: 50%;background-color: white;margin: 10px; border-style: solid;border-width: 3px;
+align-items: center;justify-content: center;}
+#BOX2{  height: 90%;
+    width: 50%;background-color: white;margin: 10px;border-style: solid;border-width: 3px;}
+    #img{object-fit: cover;}
+
+
+
+    #a{width: 100%;
+    height: 15%;
+font-size: larger;
+font-weight: bold;}
+    #b{width: 100%;
+    height: 65%;font-size: xx-large;
+    font-weight: bold;}
+    #btn{width: 100%;
+    height: 20%;
+display: flex;
+justify-content: center
+;align-items: center;}
+    #btn1{
+    color: rgb(8, 51, 247); margin: 10%;font-size: xx-large;
+    font-weight: bold;}
+#btn2{
+    color: rgb(7, 32, 255);margin: 10%;font-size: xx-large;
+    font-weight: bold;}
+    #btn1:hover{color: rgb(236, 0, 0);background-color: aquamarine;padding: 10px;border-radius: 50%;}
+    #btn2:hover{color: rgb(236, 0, 0);background-color: aquamarine;padding: 10px;border-radius: 50%;}
